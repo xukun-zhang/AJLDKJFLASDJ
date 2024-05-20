@@ -1,3 +1,6 @@
+"""
+Paper: Two-stream MeshCNN for key anatomical segmentation on the liver surface
+"""
 import time
 from options.train_options import TrainOptions
 from data import DataLoader
